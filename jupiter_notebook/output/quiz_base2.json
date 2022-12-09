@@ -1,0 +1,53 @@
+{
+  "columns":[
+    "INDEX",
+    "IMMAGINE",
+    "DOMANDA",
+    "RISPOSTA 1",
+    "V\/F",
+    "RSPOSTA 2",
+    "V\/F.1",
+    "RISPOSTA 3",
+    "V\/F.2",
+    "PROGRESSIVO",
+    "CAPITOLO",
+    "TEMA",
+    "VOCE"
+  ],
+  "index":[
+    1715,
+    1716
+  ],
+  "data":[
+    [
+      "1471",
+      "",
+      "I contenitori di plastica abbandonata in mare:",
+      "perdurano anche fino a 450 anni.",
+      "V",
+      "perdurano anche per 10 anni.",
+      "F",
+      "perdurano anche per 5 anni.",
+      "F",
+      "1.8.2-58",
+      "BASE",
+      "NORMATIVA DIPORTISTICA E AMBIENTALE",
+      "Norme ambientali"
+    ],
+    [
+      "1472",
+      "",
+      "Nelle aree marine protette dove l'ormeggio \u00e8 regolamentato tramite campi boe:",
+      "nei campi boe l'ancoraggio \u00e8 consentito dall'alba al tramonto.",
+      "F",
+      "nei campi boe l'ancoraggio \u00e8 consentito solo se c'\u00e8 sufficiente spazio di manovra.",
+      "F",
+      "nei campi boe l'ancoraggio non \u00e8 mai consentito.",
+      "V",
+      "1.8.2-59",
+      "BASE",
+      "NORMATIVA DIPORTISTICA E AMBIENTALE",
+      "Norme ambientali"
+    ]
+  ]
+}
