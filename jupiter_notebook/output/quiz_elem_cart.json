@@ -8,7 +8,9 @@
     "RISPOSTA 5",
     "RISPOSTA 6",
     "PROGRESSIVO DOMAND",
-    "TIPOLOGIA"
+    "TIPOLOGIA",
+    "VOID1",
+    "VOID2"
   ],
   "index":[
     0,
@@ -72,7 +74,9 @@
       "lat.42\u00b0(49\u2019.4\u00f750'.0) N\nlong.010\u00b0(15'.4\u00f716'.0) E",
       "",
       "4.1.1 - 1",
-      "A"
+      "A",
+      "",
+      ""
     ],
     [
       "SETTORE NORD OVEST ORIZZONTALE\nPartenza da Capo di Poro (Sud Isola d\u2019Elba) alle ore 11:00 diretti a\nPunta Morcone (Elba).\nLa nostra velocit\u00e0 \u00e8 di 5.7 nodi ed il consumo del motore \u00e8 pari a 10 l\/h, determinare:\nquesito 1 : distanza quesito 2 : ora di arrivo\nquesito 3 : carburante da imbarcare quesito 4 : coordinate punto di partenza quesito 5 : coordinate punto di arrivo",
@@ -83,7 +87,9 @@
       "lat.42\u00b0(43\u2019.6\u00f744'.2) N\nlong.010\u00b0(21.\u20197\u00f722'.3) E",
       "",
       "4.1.1 - 2",
-      "A"
+      "A",
+      "",
+      ""
     ],
     [
       "SETTORE NORD OVEST ORIZZONTALE\nPartenza da Isola Corbelli (Sud Isola d\u2019Elba) alle ore 16:00 con una\nrotta per Capo di Poro.\nTenendo conto che la nostra velocit\u00e0 \u00e8 pari a 5.5 nodi, sapendo che il consumo medio del nostro motore \u00e8 di 10 l\/h, determinare: quesito 1 : distanza\nquesito 2 : ora di arrivo\nquesito 3 : carburante da imbarcare quesito 4 : coordinate punto di partenza quesito 5 : coordinate punto di arrivo",
@@ -94,7 +100,9 @@
       "lat. 42\u00b0(43\u2019.3\u00f743'.9) N\nlong.010\u00b0(14'.0\u00f714'.6) E",
       "",
       "4.1.1 - 3",
-      "A"
+      "A",
+      "",
+      ""
     ],
     [
       "SETTORE NORD OVEST ORIZZONTALE\nPartenza da Punta di Fetovaia (Isola d\u2019Elba) alle ore 08:00 diretti a Isola Corbelli con velocit\u00e0 di 6 nodi, sapendo che il consumo orario del motore \u00e8 di 10 l\/h, determinare:\nquesito 1 : distanza quesito 2 : ora di arrivo\nquesito 3 : carburante da imbarcare\nquesito 4 : coordinate punto di partenza quesito 5 : coordinate punto di arrivo",
@@ -105,7 +113,9 @@
       "lat.42\u00b0(42\u2019.5\u00f743'.1) N\nlong.010\u00b0(21\u2019.4\u00f722'.0) E",
       "",
       "4.1.1 - 4",
-      "A"
+      "A",
+      "",
+      ""
     ],
     [
       "Partenza da Marina di Campo (Sud Isola d\u2019Elba) alle ore 08:00 con una rotta per Isola Corbelli dove bisogna arrivare alle ore 09:00 sapendo che il consumo orario del motore \u00e8 di 10 l\/h, determinare:\nquesito 1 : distanza quesito 2 : velocit\u00e0\nquesito 3 : carburante da imbarcare quesito 4 : coordinate punto di partenza\nquesito 5 : coordinate punto di arrivo",
@@ -116,7 +126,9 @@
       "lat.42\u00b0(42\u2019.5\u00f743'.1) N\nlong.010\u00b0(21\u2019.4\u00f722'.0) E",
       "",
       "4.1.1 - 5",
-      "A"
+      "A",
+      "",
+      ""
     ],
     [
       "SETTORE NORD OVEST ORIZZONTALE\nPartenza alle ore 10:00 da Marciana Marina (fanale) diretti a Capo d'Enfola dove si vuole arrivare alle ore 10:30, sapendo che il motore ha un consumo orario di 10 l\/h, determinare:\nquesito 1 : distanza quesito 2 : velocit\u00e0\nquesito 3 : carburante da imbarcare quesito 4 : coordinate punto di partenza quesito 5 : coordinate punto di arrivo",
@@ -127,7 +139,9 @@
       "lat.42\u00b0(49'.4\u00f750'.0) N\nlong.010\u00b0(15\u2019.4\u00f716'.0) E",
       "",
       "4.1.1 - 6",
-      "A"
+      "A",
+      "",
+      ""
     ],
     [
       "SETTORE NORD OVEST ORIZZONTALE\nPartenza da Capo di Fonza (Sud Elba) alle ore 10:00 con una rotta per raggiungere Isola Corbelli alle ore 10:30, considerando che il consumo orario del motore \u00e8 di 20 l\/h, determinare:\nquesito 1 : distanza quesito 2 : velocit\u00e0\nquesito 3 : carburante da imbarcare quesito 4 : coordinate punto di partenza quesito 5 : coordinate punto di arrivo",
@@ -138,7 +152,9 @@
       "lat.42\u00b0(42\u2019.5\u00f743'.1) N\nlong.010\u00b0(21\u2019.4\u00f722'.0) E",
       "",
       "4.1.1 - 7",
-      "A"
+      "A",
+      "",
+      ""
     ],
     [
       "SETTORE NORD OVEST ORIZZONTALE\nPartenza da Marina di Campo (Sud Isola d\u2019Elba) alle ore 08:00 con\nuna rotta per Isola Corbelli.\nTenendo conto che la nostra velocit\u00e0 \u00e8 pari a 5.7 nodi,  sapendo che il consumo medio del nostro motore \u00e8 di 10 l\/h, determinare: quesito 1 : distanza\nquesito 2 : ora di arrivo\nquesito 3 : carburante da imbarcare quesito 4 : coordinate punto di partenza quesito 5 : coordinate punto di arrivo",
@@ -149,7 +165,9 @@
       "lat.42\u00b0(42\u2019.5\u00f743'.1) N\nlong.010\u00b0(21\u2019.4\u00f722'.0) E",
       "",
       "4.1.1 - 8",
-      "A"
+      "A",
+      "",
+      ""
     ],
     [
       "SETTORE NORD OVEST ORIZZONTALE\nPartenza da Capo di Poro (Sud Isola d\u2019Elba) alle ore 11:00 con una rotta per raggiungere Punta di Fetovaia dopo 1 ora di navigazione, considerando che il consumo orario del motore \u00e8 di 20 l\/h, determinare:\nquesito 1 : distanza quesito 2 : velocit\u00e0\nquesito 3 : carburante da imbarcare quesito 4 : coordinate punto di partenza\nquesito 5 : coordinate punto di arrivo",
@@ -160,7 +178,9 @@
       "lat.42\u00b0(43\u2019.2\u00f743'.8) N\nlong.010\u00b0(09\u2019.2\u00f709'.8) E",
       "",
       "4.1.1 - 9",
-      "A"
+      "A",
+      "",
+      ""
     ],
     [
       "SETTORE NORD OVEST ORIZZONTALE\nPartenza da Scoglietto (Nord Elba) alle ore 09:00 con una rotta per raggiungere Capo d\u2019Enfola, dove dobbiamo arrivare alle ore 09:30, sapendo che il consumo medio del nostro motore \u00e8 di 10 l\/h, determinare:\nquesito 1 : distanza quesito 2 : velocit\u00e0\nquesito 3 : carburante da imbarcare quesito 4 : coordinate punto di partenza quesito 5 : coordinate punto di arrivo",
@@ -171,7 +191,9 @@
       "lat.42\u00b0(49\u2019.4\u00f750'.0) N\nlong.010\u00b0(15\u2019.4\u00f716'.0) E",
       "",
       "4.1.1 - 10",
-      "A"
+      "A",
+      "",
+      ""
     ],
     [
       "SETTORE NORD OVEST ORIZZONTALE\nPartenza da Isola Corbella (Sud Isola d\u2019Elba) alle ore 10:00 diretti a Capo di Poro che si vuole raggiungere in mezz\u2019ora, sapendo che il motore ha un consumo orario di 20 l\/h, determinare:\nquesito 1 : distanza quesito 2 : velocit\u00e0\nquesito 3 : carburante da imbarcare quesito 4 : coordinate punto di partenza quesito 5 : coordinate punto di arrivo",
@@ -182,7 +204,9 @@
       "lat. 42\u00b0(43\u2019.3\u00f743'.9) N\nlong.010\u00b0(14'.0\u00f714'.6) E",
       "",
       "4.1.1 - 11",
-      "A"
+      "A",
+      "",
+      ""
     ],
     [
       "SETTORE NORD OVEST ORIZZONTALE\nPartenza da Punta Morcone (Sud Isola d\u2019Elba) alle ore 10:00\ndiretti a Capo di Poro.\nTenendo conto che la nostra velocit\u00e0 \u00e8 pari a 11.4 nodi, sapendo che il consumo medio del nostro motore \u00e8 di 20 l\/h, determinare: quesito 1 : distanza\nquesito 2 : ora di arrivo\nquesito 3 : carburante da imbarcare quesito 4 : coordinate punto di partenza quesito 5 : coordinate punto di arrivo",
@@ -193,7 +217,9 @@
       "lat. 42\u00b0(43\u2019.3\u00f743'.9) N\nlong.010\u00b0(14'.0\u00f714'.6) E",
       "",
       "4.1.1 - 12",
-      "A"
+      "A",
+      "",
+      ""
     ],
     [
       "SETTORE NORD OVEST ORIZZONTALE\nPartenza alle ore 10:00 da Punta di Fetovaia (Sud Elba) con una rotta per Isola Corbelli.\nTenendo conto che la nostra velocit\u00e0 \u00e8 pari a 18 nodi, sapendo che il consumo medio del nostro motore \u00e8 di 20 l\/h, determinare: quesito 1 : distanza\nquesito 2 : ora di arrivo\nquesito 3 : carburante da imbarcare quesito 4 : coordinate punto di partenza quesito 5 : coordinate punto di arrivo",
@@ -204,7 +230,9 @@
       "lat.42\u00b0(42\u2019.5\u00f743'.1) N\nlong.010\u00b0(21\u2019.4\u00f722'.0) E",
       "",
       "4.1.1 - 13",
-      "A"
+      "A",
+      "",
+      ""
     ],
     [
       "SETTORE NORD OVEST ORIZZONTALE\nPartenza da Capo di Fonza (Sud Elba) alle ore 10:00 con una rotta per Isola Corbelli.\nTenendo conto che la nostra velocit\u00e0 \u00e8 pari a 7 nodi, sapendo che il consumo medio del nostro motore \u00e8 di 20 l\/h, determinare : quesito 1 : distanza\nquesito 2 : ora di arrivo\nquesito 3 : carburante da imbarcare quesito 4 : coordinate punto di partenza quesito 5 : coordinate punto di arrivo",
@@ -215,7 +243,9 @@
       "lat.42\u00b0(42\u2019.5\u00f743'.1) N\nlong.010\u00b0(21\u2019.4\u00f722'.0) E",
       "",
       "4.1.1 - 14",
-      "A"
+      "A",
+      "",
+      ""
     ],
     [
       "SETTORE NORD OVEST ORIZZONTALE\nPartenza da Capo di Poro (Sud Elba) alle ore 11:00 con una rotta per raggiungere Punta di Fetovaia dopo 1 ora di navigazione, considerando che il consumo orario del nostro motore \u00e8 di 20 l\/h, determinare:\nquesito 1 : distanza quesito 2 : velocit\u00e0\nquesito 3 : carburante da imbarcare\nquesito 4 : coordinate punto di partenza quesito 5 : coordinate punto di arrivo",
@@ -226,7 +256,9 @@
       "lat.42\u00b0(43\u2019.2\u00f743'.8) N\nlong.010\u00b0(09\u2019.2\u00f709'.8) E",
       "",
       "4.1.1 - 15",
-      "A"
+      "A",
+      "",
+      ""
     ],
     [
       "SETTORE NORD OVEST ORIZZONTALE\nPartenza alle ore 10:00 da Punta di Fetovaia (Sud Elba) con una\nrotta per Isola Corbelli da raggiungere in mezz\u2019ora di navigazione, considerando che il consumo orario del nostro motore \u00e8 di 20 l\/h, determinare:\nquesito 1 : distanza quesito 2 : velocit\u00e0\nquesito 3 : carburante da imbarcare\nquesito 4 : coordinate punto di partenza quesito 5 : coordinate punto di arrivo",
@@ -237,7 +269,9 @@
       "lat.42\u00b0(42\u2019.5\u00f743'.1) N\nlong.010\u00b0(21\u2019.4\u00f722'.0) E",
       "",
       "4.1.1 - 16",
-      "A"
+      "A",
+      "",
+      ""
     ],
     [
       "SETTORE NORD OVEST VERTICALE\nPartenza alle ore 10:00 da Punta del Marchese (Isola Pianosa)\ndiretti a Punta le Tombe (Isola d\u2019Elba).\nTenendo conto che la nostra velocit\u00e0 \u00e8 di 7.2 nodi, sapendo che il consumo orario del nostro motore \u00e8 pari a 15 l\/h, determinare : quesito 1 : distanza\nquesito 2 : ora di arrivo\nquesito 3 : carburante da imbarcare quesito 4 : coordinate punto di partenza quesito 5 : coordinate punto di arrivo",
@@ -248,7 +282,9 @@
       "lat. 42\u00b0(43\u2019.6\u00f744'.2) N\nlong.010\u00b0(07\u2019.9\u00f708'.5) E",
       "",
       "4.1.1 - 17",
-      "A"
+      "A",
+      "",
+      ""
     ],
     [
       "SETTORE NORD OVEST VERTICALE\nPartenza da Punta Nera (Isola d\u2019Elba) alle ore 09:00 diretti a Punta del Marchese (Isola Pianosa) da raggiungere alle ore 10:00, considerando che il consumo orario del motore \u00e8 di 10 l\/h, determinare:\nquesito 1 : distanza quesito 2 : velocit\u00e0\nquesito 3 : carburante da imbarcare quesito 4 : coordinate punto di partenza quesito 5 : coordinate punto di arrivo",
@@ -259,7 +295,9 @@
       "lat.42\u00b0(36\u2019.8\u00f737'.4) N\nlong.010\u00b0(04\u2019.5\u00f705'.1) E",
       "",
       "4.1.1 - 18",
-      "A"
+      "A",
+      "",
+      ""
     ],
     [
       "SETTORE NORD OVEST VERTICALE\nPartenza da Punta del Marchese (Isola Pianosa) alle ore 10:00 diretti a Punta della Testa (Isola d'Elba) con velocit\u00e0 8.1 nodi, considerando che il consumo orario del nostro motore \u00e8 di 15 l\/h, determinare:\nquesito 1 : distanza quesito 2 : ora di arrivo\nquesito 3 : carburante da imbarcare quesito 4 : coordinate punto di partenza\nquesito 5 : coordinate punto di arrivo",
@@ -270,7 +308,9 @@
       "lat.42\u00b0(44\u2019.8\u00f745'.4) N\nlong.010\u00b0(06\u2019.6\u00f707'.2) E",
       "",
       "4.1.1 - 19",
-      "A"
+      "A",
+      "",
+      ""
     ],
     [
       "SETTORE NORD OVEST VERTICALE\nPartenza da Punta di Fetovaia (Isola d\u2019Elba) alle ore 08:00 con una rotta per Punta del Grottone (Isola Pianosa) navigando con una velocit\u00e0 pari a 4.8 nodi, sapendo che il motore ha un consumo orario di 20 l\/h, determinare:\nquesito 1 : distanza quesito 2 : ora di arrivo\nquesito 3 : carburante da imbarcare quesito 4 : coordinate punto di partenza quesito 5 : coordinate punto di arrivo",
@@ -281,7 +321,9 @@
       "lat.42\u00b0(36\u2019.5\u00f737'.1) N\nlong.010\u00b0(05\u2019.1\u00f705'.7) E",
       "",
       "4.1.1 - 20",
-      "A"
+      "A",
+      "",
+      ""
     ],
     [
       "SETTORE NORD OVEST VERTICALE\nSi parte alle ore 10:00 da Punta del Grottone (Isola di Pianosa) diretti a Punta di Fetovaia con velocit\u00e0 14.4 nodi, sapendo che il nostro motore ha un consumo medio pari a 10 l\/h, determinare: quesito 1 : distanza\nquesito 2 : ora di arrivo\nquesito 3 : carburante da imbarcare quesito 4 : coordinate punto di partenza quesito 5 : coordinate punto di arrivo",
@@ -292,7 +334,9 @@
       "lat.42\u00b0(43\u2019.2\u00f743'.8) N\nlong.010\u00b0(09\u2019.2\u00f709'.8) E",
       "",
       "4.1.1 - 21",
-      "A"
+      "A",
+      "",
+      ""
     ],
     [
       "SETTORE NORD OVEST VERTICALE\nPartenza da Capo S. Andrea (Nord Isola d'Elba) alle ore 12:00 con una rotta per raggiungere Punta del Nasuto alle ore 12:30 e sapendo che il consumo medio del nostro motore \u00e8 di 10 l\/h, determinare:\nquesito 1 : distanza quesito 2 : velocit\u00e0\nquesito 3 : carburante da imbarcare quesito 4 : coordinate punto di partenza\nquesito 5 : coordinate punto di arrivo",
@@ -303,7 +347,9 @@
       "lat.42\u00b0(48\u2019.4\u00f749'.0) N\nlong.010\u00b0(10\u2019.9\u00f711'.5) E",
       "",
       "4.1.1 - 22",
-      "A"
+      "A",
+      "",
+      ""
     ],
     [
       "SETTORE NORD OVEST VERTICALE\nPartenza da Punta Nera (Ovest Elba) alle ore 08:00 con una rotta per raggiungere Punta del Marchese (Isola Pianosa).\nTenendo conto che la nostra velocit\u00e0 \u00e8 di 8.8 nodi, sapendo che il consumo medio del nostro motore \u00e8 di 20 l\/h, determinare: quesito 1 : distanza\nquesito 2 : ora di arrivo\nquesito 3 : carburante da imbarcare quesito 4 : coordinate punto di partenza quesito 5 : coordinate punto di arrivo",
@@ -314,7 +360,9 @@
       "lat.42\u00b0(36\u2019.8\u00f737'.4) N\nlong.010\u00b0(04\u2019.5\u00f705'.1) E",
       "",
       "4.1.1 - 23",
-      "A"
+      "A",
+      "",
+      ""
     ],
     [
       "SETTORE NORD OVEST VERTICALE\nPartenza da Scoglio Forano (Isola Pianosa) alle ore 07:00 diretti a Punta di Fetovaia (Isola d'Elba), dove si deve arrivare alle ore 08:00, sapendo che il consumo medio del nostro motore \u00e8 di 10 l\/h,  determinare:\nquesito 1 : distanza quesito 2 : velocit\u00e0\nquesito 3 : carburante da imbarcare quesito 4 : coordinate punto di partenza quesito 5 : coordinate punto di arrivo",
@@ -325,7 +373,9 @@
       "lat.42\u00b0(43\u2019.2\u00f743'.8) N\nlong.010\u00b0(09\u2019.2\u00f709'.8) E",
       "",
       "4.1.1 - 24",
-      "A"
+      "A",
+      "",
+      ""
     ],
     [
       "SETTORE NORD OVEST VERTICALE\nPartenza da Punta della Testa (Ovest Elba) alle ore 10:00 diretti a Punta del Grottone (Isola Pianosa).\nTenendo conto che la nostra velocit\u00e0 \u00e8 di 8.3 nodi e che il consumo medio del nostro motore \u00e8 di 10 l\/h, determinare: quesito 1 : distanza\nquesito 2 : ora di arrivo\nquesito 3 : carburante da imbarcare quesito 4 : coordinate punto di partenza\nquesito 5 : coordinate punto di arrivo",
@@ -336,7 +386,9 @@
       "lat.42\u00b0(36\u2019.5\u00f737'.1) N\nlong.010\u00b0(05\u2019.1\u00f705'.7) E",
       "",
       "4.1.1 - 25",
-      "A"
+      "A",
+      "",
+      ""
     ],
     [
       "SETTORE NORD OVEST VERTICALE\nPartenza da Punta del Marchese (Isola Pianosa) alle ore 10:00 con una rotta per Punta le Tombe (Isola d'Elba) che si vuole raggiungere dopo 2 ore di navigazione e sapendo che il consumo medio del nostro motore \u00e8 di 15 l\/h, determinare :\nquesito 1 : distanza quesito 2 : velocit\u00e0\nquesito 3 : carburante da imbarcare quesito 4 : coordinate punto di partenza quesito 5 : coordinate punto di arrivo",
@@ -347,7 +399,9 @@
       "lat. 42\u00b0(43\u2019.6\u00f744'.2) N\nlong.010\u00b0(07\u2019.9\u00f708'.5) E",
       "",
       "4.1.1 - 26",
-      "A"
+      "A",
+      "",
+      ""
     ],
     [
       "SETTORE NORD OVEST VERTICALE\nPartenza da Punta le Tombe (Isola d\u2019Elba) alle ore 08:00 con una rotta per Scoglio Forano (Isola Pianosa) che si vuole raggiungere alle ore 09:30, sapendo che il motore ha un consumo orario di 20 l\/h, determinare:\nquesito 1 : distanza quesito 2 : velocit\u00e0\nquesito 3 : carburante da imbarcare quesito 4 : coordinate punto di partenza\nquesito 5 : coordinate punto di arrivo",
@@ -358,7 +412,9 @@
       "lat.42\u00b0(36'.7\u00f737'.3) N\nlong.010\u00b0(04\u2019.9\u00f705'.5) E",
       "",
       "4.1.1 - 27",
-      "A"
+      "A",
+      "",
+      ""
     ],
     [
       "SETTORE NORD OVEST VERTICALE\nPartenza da Punta del Nasuto (Nord Isola d'Elba) alle ore 09:00 diretti a Capo S. Andrea che si vuole raggiungere alle ore 09:30, sapendo che il motore ha un consumo orario di\n10 l\/h, determinare:\nquesito 1 : distanza quesito 2 : velocit\u00e0\nquesito 3 : carburante da imbarcare quesito 4 : coordinate punto di partenza quesito 5 : coordinate punto di arrivo",
@@ -369,7 +425,9 @@
       "lat.42\u00b0(48\u2019.2\u00f748'.8) N\nlong.010\u00b0(08\u2019.1\u00f708'.7) E",
       "",
       "4.1.1 - 28",
-      "A"
+      "A",
+      "",
+      ""
     ],
     [
       "SETTORE NORD OVEST VERTICALE\nPartenza alle ore 10:00 da Punta del Marchese (Isola Pianosa) con una rotta per raggiungere Punta Nera (Isola d'Elba).\nTenendo conto che la nostra velocit\u00e0 \u00e8 pari a 4.4 nodi, sapendo che il consumo medio del nostro motore \u00e8 di 10 l\/h, determinare : quesito 1: distanza\nquesito 2 : ora di arrivo\nquesito 3 : carburante da imbarcare quesito 4 : coordinate punto di partenza quesito 5 : coordinate punto di arrivo",
@@ -380,7 +438,9 @@
       "lat.42\u00b0(45\u2019.6\u00f746'.2) N\nlong.010\u00b0(05\u2019.9\u00f706'.5) E",
       "",
       "4.1.1 - 29",
-      "A"
+      "A",
+      "",
+      ""
     ],
     [
       "SETTORE NORD OVEST VERTICALE\nPartenza alle ore 10:00 da Punta del Grottone (Isola Pianosa) con una rotta per Punta di Fetovaia (Elba) da raggiungere alle ore 12:00 e sapendo che il consumo medio del nostro motore \u00e8 di 15 l\/h, determinare:\nquesito 1 : distanza quesito 2 : velocit\u00e0\nquesito 3 : carburante da imbarcare quesito 4 : coordinate punto di partenza\nquesito 5 : coordinate punto di arrivo",
@@ -391,7 +451,9 @@
       "lat.42\u00b0(43\u2019.2\u00f743'.8) N\nlong.010\u00b0(09\u2019.2\u00f709'.8) E",
       "",
       "4.1.1 - 30",
-      "A"
+      "A",
+      "",
+      ""
     ],
     [
       "SETTORE NORD OVEST VERTICALE\nPartenza, alle ore 10:00 da Scoglio Forano (Isola Pianosa) con una rotta per Punta di Fetovaia da raggiungere alle ore 10:30 e sapendo che il consumo medio del nostro motore \u00e8 di 10 l\/h, determinare:\nquesito 1 : distanza quesito 2 : velocit\u00e0\nquesito 3 : carburante da imbarcare quesito 4 : coordinate punto di partenza quesito 5 : coordinate punto di arrivo",
@@ -402,7 +464,9 @@
       "lat.42\u00b0(43\u2019.2\u00f743'.8) N\nlong.010\u00b0(09\u2019.2\u00f709'.8) E",
       "",
       "4.1.1 - 31",
-      "A"
+      "A",
+      "",
+      ""
     ],
     [
       "SETTORE NORD OVEST VERTICALE\nPartenza da Punta le Tombe (Isola d'Elba) alle ore 09:00 diretti a Punta del Marchese (Isola Pianosa).\nTenendo conto che la nostra velocit\u00e0 \u00e8 pari a 3.6 nodi, sapendo che il consumo medio del nostro motore \u00e8 di 10 l\/h,  determinare\n:\nquesito 1 : distanza quesito 2 : ora di arrivo\nquesito 3 : carburante da imbarcare quesito 4 : coordinate punto di partenza quesito 5 : coordinate punto di arrivo",
@@ -413,7 +477,9 @@
       "lat.42\u00b0(36\u2019.8\u00f737'.4) N\nlong.010\u00b0(04\u2019.5\u00f705'.1) E",
       "",
       "4.1.1 - 32",
-      "A"
+      "A",
+      "",
+      ""
     ],
     [
       "SETTORE SUD EST\nPartenza alle ore 10:00 da Giglio Porto diretti a Punta Lividonia dove dobbiamo arrivare alle ore 12:00, considerando che il consumo orario del motore \u00e8 pari a 10 l\/h, determinare: quesito 1 : distanza\nquesito 2 : velocit\u00e0\nquesito 3 : carburante da imbarcare quesito 4 : coordinate punto di partenza quesito 5 : coordinate punto di arrivo",
@@ -424,7 +490,9 @@
       "lat.42\u00b0(26\u2019.5\u00f727'.1) N\nlong.011\u00b0(06\u2019.0\u00f706'.6) E",
       "",
       "4.1.1 - 33",
-      "A"
+      "A",
+      "",
+      ""
     ],
     [
       "SETTORE SUD EST\nPartenza da Punta Lividonia (Promontorio dell\u2019Argentario) alle ore 10:30 diretti a Talamone (Faro). La nostra Velocit\u00e0 \u00e8 di 6.4 nodi ed il consumo del motore pari a 10 l\/h, determinare:\nquesito 1 : distanza quesito 2 : ora di arrivo\nquesito 3 : carburante da imbarcare quesito 4 : coordinate punto di partenza quesito 5 : coordinate punto di arrivo",
@@ -435,7 +503,9 @@
       "lat. 42\u00b0(32\u2019.8\u00f733'.4) N\nlong.011\u00b0(07\u2019.7\u00f708'.3) E",
       "",
       "4.1.1 - 34",
-      "A"
+      "A",
+      "",
+      ""
     ],
     [
       "SETTORE SUD EST\nPartenza da Talamone (faro) alle ore 08:00 diretti a  Formica Piccola (Formiche di Grosseto) dove si deve arrivare alle ore 09:00, considerando che il consumo orario del motore \u00e8 pari a 10 l\/h, determinare:\nquesito 1 : distanza quesito 2 : velocit\u00e0\nquesito 3 : carburante da imbarcare quesito 4 : coordinate punto di partenza\nquesito 5 : coordinate punto di arrivo",
@@ -446,7 +516,9 @@
       "lat.42\u00b0(33\u2019.4\u00f734'.0) N\nlong.010\u00b0(53\u2019.4\u00f754'.0) E",
       "",
       "4.1.1 - 35",
-      "A"
+      "A",
+      "",
+      ""
     ],
     [
       "SETTORE SUD EST\nPartenza da Giglio Porto alle ore 08:00 diretti a Capo d\u2019Uomo (Argentario) con una velocit\u00e0 di 4 nodi, sapendo che il motore ha un consumo orario di 10 l\/h, determinare:\nquesito 1 : distanza quesito 2 : ora di arrivo\nquesito 3 : carburante da imbarcare quesito 4 : coordinate punto di partenza\nquesito 5 : coordinate punto di arrivo",
@@ -457,7 +529,9 @@
       "lat.42\u00b0(23.2\u2019\u00f723'.8) N\nlong.011\u00b0(05\u2019.5\u00f706'.1) E",
       "",
       "4.1.1 - 36",
-      "A"
+      "A",
+      "",
+      ""
     ],
     [
       "SETTORE SUD EST\nPartenza da Talamone (faro) alle ore 09:00 diretti a Punta Nera (Nord promontorio Argentario) che si vuole raggiungere alle ore 10:30, sapendo che il consumo orario del motore \u00e8 di 10 l\/h, determinare:\nquesito 1 : distanza quesito 2 : velocit\u00e0\nquesito 3 : carburante da imbarcare quesito 4 : coordinate punto di partenza quesito 5 : coordinate punto di arrivo",
@@ -468,7 +542,9 @@
       "lat.42\u00b0(26\u2019.0\u00f726'.6) N\nlong.011\u00b0(07'.7\u00f708'.3) E",
       "",
       "4.1.1 - 37",
-      "A"
+      "A",
+      "",
+      ""
     ],
     [
       "SETTORE SUD EST\nPartenza da Punta di Torre Ciana (Argentario) alle ore 10:00 diretti a Punta Torricella (Isola del Giglio), con velocit\u00e0 di 4 nodi, sapendo che il consumo del motore \u00e8 di 10 l\/h, determinare:\nquesito 1 : distanza quesito 2 : ora di arrivo\nquesito 3 : carburante da imbarcare quesito 4 : coordinate punto di partenza quesito 5 : coordinate punto di arrivo",
@@ -479,7 +555,9 @@
       "lat.42\u00b0(20'.0\u00f720'.6) N\nlong.010\u00b0(55\u2019.6\u00f756'.2) E",
       "",
       "4.1.1 - 38",
-      "A"
+      "A",
+      "",
+      ""
     ],
     [
       "SETTORE SUD EST\nPartenza da Talamone (faro) alle ore 09:00 con una rotta per Punta Nera (Nord Argentario).\nTenendo conto che la nostra velocit\u00e0 \u00e8 pari a 3.4 nodi, sapendo che il consumo medio del motore \u00e8 di 10 l\/h, determinare: quesito 1 : distanza\nquesito 2 : ora di arrivo\nquesito 3 : carburante da imbarcare quesito 4 : coordinate punto di partenza quesito 5 : coordinate punto di arrivo",
@@ -490,7 +568,9 @@
       "lat.42\u00b0(26\u2019.0\u00f726'.6) N\nlong.011\u00b0(07'.7\u00f708'.3) E",
       "",
       "4.1.1 - 39",
-      "A"
+      "A",
+      "",
+      ""
     ],
     [
       "SETTORE SUD EST\nPartenza da Giglio Porto alle ore 10:00 diretti a Punta Lividonia con velocit\u00e0 4.8 nodi, considerando che il consumo orario del motore \u00e8 di 10 l\/h, determinare:\nquesito 1 : distanza quesito 2 : ora di arrivo\nquesito 3 : carburante da imbarcare quesito 4 : coordinate punto di partenza\nquesito 5 : coordinate punto di arrivo",
@@ -501,7 +581,9 @@
       "lat.42\u00b0(26\u2019.5\u00f727'.1) N\nlong.011\u00b0(06\u2019.0\u00f706'.6) E",
       "",
       "4.1.1 - 40",
-      "A"
+      "A",
+      "",
+      ""
     ],
     [
       "SETTORE SUD EST\nPartenza da Talamone (faro) alle ore 09:00 diretti a Punta Nera (Nord Argentario) che si vuole raggiungere alle ore 11:00, sapendo che il consumo medio del motore \u00e8 di 10 l\/h, determinare:  quesito 1 : distanza\nquesito 2 : velocit\u00e0\nquesito 3 : carburante da imbarcare quesito 4 : coordinate punto di partenza quesito 5 : coordinate punto di arrivo",
@@ -512,7 +594,9 @@
       "lat.42\u00b0(26\u2019.0\u00f726'.6) N\nlong.011\u00b0(07'.7\u00f708'.3) E",
       "",
       "4.1.1 - 41",
-      "A"
+      "A",
+      "",
+      ""
     ],
     [
       "SETTORE SUD EST\nPartenza da Punta di Torre Ciana (Argentario) alle ore 10:00 con una rotta per Punta Torricella (Isola del Giglio), tenendo conto che la velocit\u00e0 della nostra imbarcazione \u00e8 di 4 nodi e la quantit\u00e0 di carburante necessaria alla navigazione sapendo che il consumo del nostro motore \u00e8 di 20 l\/h, determinare :\nquesito 1 : distanza quesito 2 : ora di arrivo\nquesito 3 : carburante da imbarcare quesito 4 : coordinate punto di partenza quesito 5 : coordinate punto di arrivo",
@@ -523,7 +607,9 @@
       "lat.42\u00b0(20'.0\u00f720'.6) N\nlong.010\u00b0(55\u2019.6\u00f756'.2) E",
       "",
       "4.1.1 - 42",
-      "A"
+      "A",
+      "",
+      ""
     ],
     [
       "SETTORE SUD EST\nPartenza da Giglio Porto alle ore 14:00 diretti a Punta Cala Grande, dove bisogna arrivare alle ore 16:00 e sapendo che il consumo medio del nostro motore \u00e8 di 10 l\/h, determinare: quesito 1 : distanza\nquesito 2 : velocit\u00e0\nquesito 3 : carburante da imbarcare quesito 4 : coordinate punto di partenza quesito 5 : coordinate punto di arrivo",
@@ -534,7 +620,9 @@
       "lat.42\u00b0(25\u2019.5\u00f726'.1) N\nlong.011\u00b0(04\u2019.9\u00f705'.5) E",
       "",
       "4.1.1 - 43",
-      "A"
+      "A",
+      "",
+      ""
     ],
     [
       "SETTORE SUD EST\nPartenza alle ore 09:00 da Punta Lividonia (Nord Argentario) diretti a Talamone (faro).\nTenendo conto che la nostra velocit\u00e0 \u00e8 di 6.5 nodi, sapendo che il consumo medio del nostro motore \u00e8 di 10 l\/h, determinare : quesito 1 : distanza\nquesito 2 : ora di arrivo\nquesito 3 : carburante da imbarcare quesito 4 : coordinate punto di partenza quesito 5 : coordinate punto di arrivo",
@@ -545,7 +633,9 @@
       "lat.42\u00b0(32\u2019.8\u00f733'.4) N\nlong.011\u00b0(07'.7\u00f708'.3) E",
       "",
       "4.1.1 - 44",
-      "A"
+      "A",
+      "",
+      ""
     ],
     [
       "SETTORE SUD EST\nPartenza da Punta del Fenaio (Nord Isola del Giglio) alle ore 18:00 diretti verso l\u2019Isola di Formica Piccola, che bisogna raggiungere  alle ore 19:00, sapendo che il consumo medio del nostro motore \u00e8 di 10 l\/h, determinare:\nquesito 1 : distanza quesito 2 : velocit\u00e0\nquesito 3 : carburante da imbarcare quesito 4 : coordinate punto di partenza\nquesito 5 : coordinate punto di arrivo",
@@ -556,7 +646,9 @@
       "lat.42\u00b0(33\u2019.4\u00f734'.0) N\nlong.010\u00b0(53\u2019.4\u00f754'.0) E",
       "",
       "4.1.1 - 45",
-      "A"
+      "A",
+      "",
+      ""
     ],
     [
       "SETTORE SUD EST\nPartenza da Talamone (faro) alle ore 08:00 con una rotta per raggiungere Formica Piccola.\nTenendo conto che la nostra velocit\u00e0 \u00e8 pari a 10.7 nodi, sapendo che il consumo medio del nostro motore \u00e8 di 10 l\/h, determinare : quesito 1 : distanza\nquesito 2 : ora di arrivo\nquesito 3 : carburante da imbarcare quesito 4 : coordinate punto di partenza quesito 5 : coordinate punto di arrivo",
@@ -567,7 +659,9 @@
       "lat.42\u00b0(33\u2019.4\u00f734'.0) N\nlong.010\u00b0(53\u2019.4\u00f754'.0) E",
       "",
       "4.1.1 - 46",
-      "A"
+      "A",
+      "",
+      ""
     ],
     [
       "SETTORE SUD EST\nPartenza da Giglio Porto alle ore 08:00 con una rotta per\nraggiungere Capo d\u2019Uomo (Argentario) da raggiungere alle ore 10:00, sapendo che il consumo medio del nostro motore \u00e8 di 10 l\/h, determinare:\nquesito 1 : distanza quesito 2 : velocit\u00e0\nquesito 3 : carburante da imbarcare quesito 4 : coordinate punto di partenza\nquesito 5 : coordinate punto di arrivo",
@@ -578,7 +672,9 @@
       "lat.42\u00b0(23\u2019.2\u00f723'.8) N\nlong.011\u00b0(05\u2019.5\u00f706'.1) E",
       "",
       "4.1.1 - 47",
-      "A"
+      "A",
+      "",
+      ""
     ],
     [
       "SETTORE SUD EST\nPartenza da Punta di Torre Ciana (Argentario) alle ore 10:00 con una rotta per Punta Torricella (Isola del Giglio) che si vuole raggiungere alle ore 12:30, sapendo che il consumo medio del nostro motore \u00e8 di 20 l\/h, determinare:\nquesito 1 : distanza quesito 2 : velocit\u00e0\nquesito 3 : carburante da imbarcare quesito 4 : coordinate punto di partenza quesito 5 : coordinate punto di arrivo",
@@ -589,7 +685,9 @@
       "lat.42\u00b0(20'.0\u00f720'.6) N\nlong.010\u00b0(55\u2019.6\u00f756'.2) E",
       "",
       "4.1.1 - 48",
-      "A"
+      "A",
+      "",
+      ""
     ],
     [
       "SETTORE SUD EST\nPartenza da Punta Lividonia (Promontorio Argentario) alle ore 10:00 diretti a Punta del Morto (Isola del Giglio) che si vuole raggiungere dopo 2 ore di navigazione,considerando che il consumo orario del nostro motore \u00e8 di 15 l\/h, determinare: quesito 1 : distanza\nquesito 2 : velocit\u00e0\nquesito 3 : carburante da imbarcare quesito 4 : coordinate punto di partenza quesito 5 : coordinate punto di arrivo",
@@ -600,7 +698,9 @@
       "lat.42\u00b0(23\u2019.0\u00f723'.6) N\nlong.010\u00b0(53\u2019.0\u00f753'.6) E",
       "",
       "4.1.1 - 49",
-      "A"
+      "A",
+      "",
+      ""
     ],
     [
       "SETTORE SUD EST\nPartenza da Punta Lividonia (Promontorio Argentario) alle ore 10:00 diretti a Punta del Morto (Isola del Giglio) con velocit\u00e0 5.1 nodi, considerando che il consumo orario del nostro motore \u00e8 di 15 l\/h, determinare :\nquesito 1 : distanza quesito 2 : ora di arrivo\nquesito 3 : carburante da imbarcare quesito 4 : coordinate punto di partenza quesito 5 : coordinate punto di arrivo",
@@ -611,7 +711,9 @@
       "lat.42\u00b0(23\u2019.0\u00f723'.6) N\nlong.010\u00b0(53\u2019.0\u00f753'.6) E",
       "",
       "4.1.1 - 50",
-      "A"
+      "A",
+      "",
+      ""
     ]
   ]
 }
